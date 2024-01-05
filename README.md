@@ -39,6 +39,5 @@ Laravel Restful API Test for Pixl8.
 ## API Interface Documentation
 | HTTP Request | Endpoint                          | Description                                   |
 | :---:        | :---:                             | :---:                                         |
-
 | POST         |  api/v1/submit_job_application    |  Submit a job application.                    |
 
